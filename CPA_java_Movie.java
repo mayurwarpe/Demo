@@ -7,6 +7,8 @@ class Myclass
     {
 		Scanner sc=new Scanner(System.in);
 		Movie[] arr=new Movie[4];
+		System.out.println("Hello Mayur...!");
+
 		for(int i=0;i<arr.length;i++)
 		{
 			int id=sc.nextInt();
